@@ -1,6 +1,8 @@
 #include<iostream>
 #include<array>
 
+// Just trying to understand how sudoku programs might work from my point of view
+
 typedef std::array<std::array<int, 9>, 9> MultiDi_array;
 
 class Base
